@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6ccbe514a49d4115903ac7cd534df0ae/artifacts
+end_time: 1738843444215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ccbe514a49d4115903ac7cd534df0ae
+run_name: unique-wren-690
+run_uuid: 6ccbe514a49d4115903ac7cd534df0ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738843442184
+status: 4
+tags: []
+user_id: kivsithvothy

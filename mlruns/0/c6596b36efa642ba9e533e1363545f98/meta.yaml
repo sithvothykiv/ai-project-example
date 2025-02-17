@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c6596b36efa642ba9e533e1363545f98/artifacts
+end_time: 1738843732171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6596b36efa642ba9e533e1363545f98
+run_name: treasured-sloth-25
+run_uuid: c6596b36efa642ba9e533e1363545f98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738843730079
+status: 3
+tags: []
+user_id: kivsithvothy

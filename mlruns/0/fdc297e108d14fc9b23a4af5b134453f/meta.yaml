@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fdc297e108d14fc9b23a4af5b134453f/artifacts
+end_time: 1739447692019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdc297e108d14fc9b23a4af5b134453f
+run_name: big-gnat-167
+run_uuid: fdc297e108d14fc9b23a4af5b134453f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739447689774
+status: 3
+tags: []
+user_id: kivsithvothy
